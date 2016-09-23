@@ -1,0 +1,31 @@
+Package: com.indianheart4u.ccnohidedate
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: indianheart4u <patilkiran08@gmail.com>
+Depends: mobilesubstrate
+Filename: debs//ccnohidedate/com.indianheart4u.ccnohidedate.deb
+Size: 1650
+MD5sum: bf68a62345ac29aa406ea0a3d73168d6
+SHA1: 6238fa1ddb0f096c9035bf765ce1fa552a3e5b91
+SHA256: 1b8a66a1783460e36d036e244a2b961e5a1ec4993ccfd28a32725f10c8196ebf
+Section: Tweaks
+Description: Tweak to disable the hiding of lockscreen date on CC Swipe
+Author: Kiran Patil (indianheart4u) <patilkiran08@gmail.com>
+Depiction: http://indianheart4u.github.io/repo/depictions/index.html?p=com.indianheart4u.ccnohidedate
+Name: CCNoHideDate
+
+Package: com.indianheart4u.customshot
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: indianheart4u <patilkiran08@gmail.com>
+Depends: mobilesubstrate
+Filename: debs//customshot/com.indianheart4u.customshot.deb
+Size: 1640
+MD5sum: d34bee922ffdc47ffb80ffea5c30ae7f
+SHA1: fbad567e0918a3c59ae823ca9178c624b45d9ebf
+SHA256: 2f46593ddfeef49342e9c6eff8a52646ff887364d3776fc8a7ae8ae08ac235a9
+Section: Tweaks
+Description: Tweak to allow to save screenshots to a custom folder!
+Author: Kiran Patil (indianheart4u) <patilkiran08@gmail.com>
+Depiction: http://indianheart4u.github.io/repo/depictions/index.html?p=com.indianheart4u.customshot
+Name: CustomShot
