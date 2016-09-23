@@ -1,6 +1,6 @@
 <package>
-	<id>com.indianheart4u.ccnohidedate</id>
-	<name>CCNoHideDate</name>
+	<id>com.indianheart4u.customshot</id>
+	<name>CustomShot</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -11,7 +11,7 @@
 		<package>mobilesubstrate</package>
 	</dependencies>
 	<descriptionlist>
-		<description>A tweak to stop the hiding of date on lockscreen when CC is Swiped!</description>
+		<description>Tweak to allow to save screenshots to a custom folder!</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
