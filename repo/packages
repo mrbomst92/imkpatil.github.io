@@ -11,7 +11,7 @@ SHA256: 1b8a66a1783460e36d036e244a2b961e5a1ec4993ccfd28a32725f10c8196ebf
 Section: Tweaks
 Description: Tweak to disable the hiding of lockscreen date on CC Swipe
 Author: Kiran Patil (indianheart4u) <patilkiran08@gmail.com>
-Depiction: http://indianheart4u.github.io/repo/depictions/index.html?p=com.indianheart4u.ccnohidedate
+Depiction: http://indianheart4u.github.io/repo/depictions/ccnohidedate/index.html
 Name: CCNoHideDate
 
 Package: com.indianheart4u.customshot
@@ -27,5 +27,5 @@ SHA256: 2f46593ddfeef49342e9c6eff8a52646ff887364d3776fc8a7ae8ae08ac235a9
 Section: Tweaks
 Description: Tweak to allow to save screenshots to a custom folder!
 Author: Kiran Patil (indianheart4u) <patilkiran08@gmail.com>
-Depiction: http://indianheart4u.github.io/repo/depictions/index.html?p=com.indianheart4u.customshot
+Depiction: http://indianheart4u.github.io/repo/depictions/customshot/index.html
 Name: CustomShot
