@@ -1,9 +1,9 @@
-Origin: indianheart4u
-Label: indianheart4u
+Origin: imkpatil
+Label: imkpatil
 Suite: Stable
 Version: 1.0
 Codename: Namespace
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm64
 Components: main
-Description: Tweaks from indianheart4u
+Description: Tweaks from imkpatil
 Icon: file://CydiaIcon.png

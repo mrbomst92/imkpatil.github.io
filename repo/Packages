@@ -1,31 +1,15 @@
-Package: com.indianheart4u.ccnohidedate
-Version: 1.0.0-5+debug
-Architecture: iphoneos-arm
-Maintainer: indianheart4u <patilkiran08@gmail.com>
+Package: com.imkpatil.letmeknow
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: imkpatil <patilkiran08@gmail.com>
 Depends: mobilesubstrate
-Filename: debs/com.indianheart4u.ccnohidedate.deb
-Size: 
-MD5sum: 
-SHA1: 
-SHA256: 
+Filename: debs/com.imkpatil.letmeknow.deb
+Size: 1530
+MD5sum: 76d20f985704207a9e8c3c130f92da2d
+SHA1: 1bef1bd820aed36868111995004f918224d89aa4
+SHA256: 53f43e0376d472a9c9973dcb1ab1460a4783895730dd9253c4578b4c59e51e72
 Section: Tweaks
-Description: Tweak to disable the hiding of lockscreen date on CC Swipe!
-Author: Kiran Patil (indianheart4u) <patilkiran08@gmail.com>
-Depiction: http://indianheart4u.github.io/repo/depictions/ccnohidedate/index.html
-Name: CCNoHideDate
-
-Package: com.indianheart4u.customshot
-Version: 1.0.0-4+debug
-Architecture: iphoneos-arm
-Maintainer: indianheart4u <patilkiran08@gmail.com>
-Depends: mobilesubstrate
-Filename: debs/com.indianheart4u.customshot.deb
-Size: 
-MD5sum: 
-SHA1: 
-SHA256: 
-Section: Tweaks
-Description: Tweak to allow saving of screenshots to a custom folder!
-Author: Kiran Patil (indianheart4u) <patilkiran08@gmail.com>
-Depiction: http://indianheart4u.github.io/repo/depictions/customshot/index.html
-Name: CustomShot
+Description: This tweak will let you know exactly when the call connects so that you don't have to keep holding!
+Author: Kiran Patil (imkpatil) <patilkiran08@gmail.com>
+Depiction: http://imkpatil.github.io/repo/depictions/letmeknow/index.html
+Name: LetMeKnow
