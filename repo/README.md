@@ -9,4 +9,4 @@ Reddit - [/u/imkpatil](https://www.reddit.com/user/imkpatil/)
 
 Twitter - [@imkpatil](https://twitter.com/imkpatil)
 
-Paypal - [Donate](https://paypal.me/patilkiran08/2)
+Paypal - [Donate](https://paypal.me/patilkiran08/5)
