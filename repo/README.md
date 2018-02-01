@@ -1,10 +1,12 @@
-# indianheart4u.github.io
+# imkpatil.github.io
 Welcome to my Cydia Repo.
 
 &nbsp;
 
 Email - patilkiran08@gmail.com
 
-Reddit - [/u/patilkir_86](https://www.reddit.com/user/patilkir_86/)
+Reddit - [/u/imkpatil](https://www.reddit.com/user/imkpatil/)
 
-Twitter - [@patilkiran08](https://twitter.com/patilkiran08)
+Twitter - [@imkpatil](https://twitter.com/imkpatil)
+
+Paypal - [paypal.me/patilkiran08/2]
