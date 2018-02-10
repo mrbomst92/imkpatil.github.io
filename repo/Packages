@@ -13,3 +13,19 @@ Description: This tweak will let you know exactly when the call connects/disconn
 Author: Kiran Patil (imkpatil) <patilkiran08@gmail.com>
 Depiction: http://imkpatil.github.io/repo/depictions/letmeknow/index.html
 Name: LetMeKnow
+
+Package: com.imkpatil.clearonopen11
+Version: 1.0.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: imkpatil <patilkiran08@gmail.com>
+Depends: mobilesubstrate
+Filename: debs/com.imkpatil.clearonopen11_1.0.0-2+debug_iphoneos-arm
+Size: 2264
+MD5sum: c15a50a7bbc701f6fdcacc0997435eac
+SHA1: aeb10b31f752abf803a5484669db9ef277643479
+SHA256: 86bd2e7ebebcb9daf544260231597a23e7430becaad8e78b0c7847bbcc24faa7
+Section: Tweaks
+Description: ClearOnOpen makes sure that Spotlight is clear when you open it so you don't have to deal with the last search's results!
+Author: Kiran Patil (imkpatil) <patilkiran08@gmail.com>
+Depiction: http://imkpatil.github.io/repo/depictions/ClearOnOpen11/index.html
+Name: ClearOnOpen11
