@@ -3,7 +3,7 @@ Version: 1.0.0-6+debug
 Architecture: iphoneos-arm
 Maintainer: imkpatil <patilkiran08@gmail.com>
 Depends: mobilesubstrate
-Filename: debs/com.imkpatil.letmeknow_1.0.0-6+debug_iphoneos-arm
+Filename: debs/com.imkpatil.letmeknow_1.0.0-6+debug_iphoneos-arm.deb
 Size: 2300
 MD5sum: f24ee05e2d31872e1fb1ef506983b8aa
 SHA1: 9b3f293cad7a5d788f45f91b3f6e53171586acf8
@@ -11,7 +11,7 @@ SHA256: 17d5d4dc95572fb88364ebf3394f8c4e40c00bf73331e20ff7a4e0ff9d86d275
 Section: Tweaks
 Description: This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!
 Author: Kiran Patil (imkpatil) <patilkiran08@gmail.com>
-Depiction: http://imkpatil.github.io/repo/depictions/letmeknow/index.html
+Depiction: http://imkpatil.github.io/repo/depictions/LetMeKnow/index.html
 Name: LetMeKnow
 
 Package: com.imkpatil.clearonopen11
@@ -19,7 +19,7 @@ Version: 1.0.0-2+debug
 Architecture: iphoneos-arm
 Maintainer: imkpatil <patilkiran08@gmail.com>
 Depends: mobilesubstrate
-Filename: debs/com.imkpatil.clearonopen11_1.0.0-2+debug_iphoneos-arm
+Filename: debs/com.imkpatil.clearonopen11_1.0.0-2+debug_iphoneos-arm.deb
 Size: 2264
 MD5sum: c15a50a7bbc701f6fdcacc0997435eac
 SHA1: aeb10b31f752abf803a5484669db9ef277643479
