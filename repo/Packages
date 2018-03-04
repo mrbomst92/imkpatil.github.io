@@ -5,7 +5,7 @@ Maintainer: Kiran Patil
 Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debs/com.imkpatil.letmeknow_1.0.0-1_iphoneos-arm.deb
-Depiction: /depictions/com.imkpatil.letmeknow/index.html
+Depiction: https://github.com/imkpatil/imkpatil.github.io/tree/master/repo/depiction/LetMeKnow/index.html
 Size: 4110
 MD5sum: bd6fc326e8f7d873be9abdcdd14eecc0
 SHA1: 576837bd3c954a01983c298deeada600753472dd
@@ -22,7 +22,7 @@ Maintainer: Kiran Patil
 Installed-Size: 72
 Depends: mobilesubstrate
 Filename: ./debs/com.imkpatil.spotclearonclose_1.0.0-1_iphoneos-arm.deb
-Depiction: /depictions/com.imkpatil.spotclearonclose/index.html
+Depiction: /depiction/SpotClearOnClose/index.html
 Size: 2310
 MD5sum: 994d8de94b92bc60348583deafe870f6
 SHA1: 0d8277306d7b0f4b54038c3d8f9f76fa3918b444
