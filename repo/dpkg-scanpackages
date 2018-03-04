@@ -12,8 +12,8 @@ my $dpkglibdir="/usr/lib/dpkg"; # This line modified by Makefile
 ($0) = $0 =~ m:.*/(.+):;
 
 push(@INC,$dpkglibdir);
-require 'dpkg-gettext.pl';
-textdomain("dpkg-dev");
+#require './dpkg-gettext.pl';
+#textdomain("dpkg-dev");
 
 my %kmap= (optional         => 'suggests',
 	   recommended      => 'recommends',
@@ -75,7 +75,6 @@ sub version {
 sub usage {
     printf _g(
 "Usage: %s [<option> ...] <binarypath> <overridefile> [<pathprefix>] > Packages
-
 Options:
   -u, --udeb               scan for udebs.
   -a, --arch <arch>        architecture to scan for.
