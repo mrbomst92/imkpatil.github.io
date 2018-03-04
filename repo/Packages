@@ -1,31 +1,31 @@
 Package: com.imkpatil.letmeknow
-Version: 1.0.0-6+debug
+Version: 1.0.0-1
 Architecture: iphoneos-arm
 Maintainer: imkpatil <patilkiran08@gmail.com>
 Depends: mobilesubstrate
-Filename: debs/com.imkpatil.letmeknow_1.0.0-6+debug_iphoneos-arm.deb
-Size: 2300
-MD5sum: f24ee05e2d31872e1fb1ef506983b8aa
-SHA1: 9b3f293cad7a5d788f45f91b3f6e53171586acf8
-SHA256: 17d5d4dc95572fb88364ebf3394f8c4e40c00bf73331e20ff7a4e0ff9d86d275
+Filename: debs/com.imkpatil.letmeknow_1.0.0-1_iphoneos-arm.deb
+Size: 4110
+MD5sum: bd6fc326e8f7d873be9abdcdd14eecc0
+SHA1: 576837bd3c954a01983c298deeada600753472dd
+SHA256: f677c6e499e39fd1aa309a0af16c7328fa86207f909b388faa550cfbbc827df1
 Section: Tweaks
 Description: This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!
 Author: Kiran Patil (imkpatil) <patilkiran08@gmail.com>
 Depiction: http://imkpatil.github.io/repo/depictions/LetMeKnow/index.html
 Name: LetMeKnow
 
-Package: com.imkpatil.clearonopen11
-Version: 1.0.0-2+debug
+Package: com.imkpatil.spotclearonclose
+Version: 1.0.0-1
 Architecture: iphoneos-arm
 Maintainer: imkpatil <patilkiran08@gmail.com>
 Depends: mobilesubstrate
-Filename: debs/com.imkpatil.clearonopen11_1.0.0-2+debug_iphoneos-arm.deb
-Size: 2264
-MD5sum: c15a50a7bbc701f6fdcacc0997435eac
-SHA1: aeb10b31f752abf803a5484669db9ef277643479
-SHA256: 86bd2e7ebebcb9daf544260231597a23e7430becaad8e78b0c7847bbcc24faa7
+Filename: debs/com.imkpatil.spotclearonclose_1.0.0-1_iphoneos-arm.deb
+Size: 2310
+MD5sum: 994d8de94b92bc60348583deafe870f6
+SHA1: 0d8277306d7b0f4b54038c3d8f9f76fa3918b444
+SHA256: a0210da539907f0551ad3d134ba67f52c8d8c88d5ec1cbb29c5592e21e26ce40
 Section: Tweaks
 Description: ClearOnOpen makes sure that Spotlight is clear when you open it so you don't have to deal with the last search's results!
 Author: Kiran Patil (imkpatil) <patilkiran08@gmail.com>
-Depiction: http://imkpatil.github.io/repo/depictions/ClearOnOpen11/index.html
-Name: ClearOnOpen11
+Depiction: http://imkpatil.github.io/repo/depictions/SpotClearOnClose/index.html
+Name: SpotClearOnClose
