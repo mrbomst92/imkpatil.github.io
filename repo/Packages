@@ -1,0 +1,32 @@
+Package: com.imkpatil.letmeknow
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.letmeknow_1.0.0-1_iphoneos-arm.deb
+Size: 4110
+MD5sum: bd6fc326e8f7d873be9abdcdd14eecc0
+SHA1: 576837bd3c954a01983c298deeada600753472dd
+SHA256: f677c6e499e39fd1aa309a0af16c7328fa86207f909b388faa550cfbbc827df1
+Section: Tweaks
+Description: This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!
+Author: Kiran Patil
+Name: LetMeKnow
+
+Package: com.imkpatil.spotclearonclose
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Kiran Patil
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.spotclearonclose_1.0.0-1_iphoneos-arm.deb
+Size: 2310
+MD5sum: 994d8de94b92bc60348583deafe870f6
+SHA1: 0d8277306d7b0f4b54038c3d8f9f76fa3918b444
+SHA256: a0210da539907f0551ad3d134ba67f52c8d8c88d5ec1cbb29c5592e21e26ce40
+Section: Tweaks
+Description: SpotClearOnClose clears your spotlight results/search so that when you open it the next time, you don't have to deal with the last search's Text/results!
+Author: Kiran Patil
+Name: SpotClearOnClose
+
