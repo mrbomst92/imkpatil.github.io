@@ -1,51 +1,51 @@
 Package: com.imkpatil.letmeknow
-Version: 1.0.0
+Version: 0.0.9-1+debug
 Architecture: iphoneos-arm
 Maintainer: Kiran Patil
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/com.imkpatil.letmeknow_1.0.0_iphoneos-arm.deb
-Size: 3598
-MD5sum: e4b6a4ec48a5019628b8a558e13f12fb
-SHA1: cea44fd0ec506e03a6a19112a9eda663c0a0a78d
-SHA256: 01a744415d0e0626585e03bf640d0d3ec29dd145dffa0100a9d4dbe669297254
+Filename: ./debs/com.imkpatil.letmeknow_0.0.9-1+debug_iphoneos-arm.deb
+Size: 4156
+MD5sum: 2911daeb9749256597166c564dd0c898
+SHA1: a2f97401dfd1c294ebe6898ad65ce9b2d951973f
+SHA256: 74c174e1ffcde52fe80a1bd558950475f7056a2818e510ee7b325cc5d7b0944c
 Section: Tweaks
 Description: This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!
 Author: Kiran Patil
-Depiction: https://github.com/imkpatil/imkpatil.github.io/tree/master/repo/depiction/LetMeKnow/index.html
+Depiction: https://imkpatil.github.io/repo/depiction/LetMeKnow/index.html
 Name: LetMeKnow
 
 Package: com.imkpatil.spotcc
-Version: 1.0.0
+Version: 0.0.9-1+debug
 Architecture: iphoneos-arm
 Maintainer: Kiran Patil
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/com.imkpatil.spotcc_1.0.0_iphoneos-arm.deb
-Size: 2878
-MD5sum: 3e9338b75a8e86f9c07a1bb012f34c3e
-SHA1: 7e2901d440cf5e6015570e67ec4839e1ffd81daa
-SHA256: 67158738fa50beeb4aaf6f6da606732bf1d9e86f7c9160240eb8b337d35756a5
+Filename: ./debs/com.imkpatil.spotcc_0.0.9-1+debug_iphoneos-arm.deb
+Size: 3382
+MD5sum: b505d066249a50d07083b388c87ab55d
+SHA1: 44af51f859a50c3b62e3c2a5d21a5db22ece6d0a
+SHA256: 845ebab777148b94a55e7c3b87beb6792a49a1ba3360f4f9ffa17a5b96f71e57
 Section: Tweaks
 Description: Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
 Author: Kiran Patil
-Depiction: https://github.com/imkpatil/imkpatil.github.io/tree/master/repo/depiction/SpotCC/index.html
+Depiction: https://imkpatil.github.io/repo/depiction/SpotCC/index.html
 Name: SpotCC
 
 Package: com.imkpatil.spotclearonclose
-Version: 1.0.0
+Version: 0.0.9-1+debug
 Architecture: iphoneos-arm
 Maintainer: Kiran Patil
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: ./debs/com.imkpatil.spotclearonclose_1.0.0_iphoneos-arm.deb
-Size: 2106
-MD5sum: c1eb5c131a2fa18d1250e0cda47aca9f
-SHA1: a98fb0407bfa94bd396834baa79ae0c78b5c530b
-SHA256: 84c13584b43d7b3c6c46fb336d02676ecd9cbac06eb99ab2a07e4b0249b19c50
+Filename: ./debs/com.imkpatil.spotclearonclose_0.0.9-1+debug_iphoneos-arm.deb
+Size: 2348
+MD5sum: a703edbe539da7901a36efa530f63aca
+SHA1: c565013a8218908373fc2887bee4220028ecca90
+SHA256: 8517aaa28b8bfc458dba30593f84a26397afc42e8ef4dbbffbbaaadf670f063d
 Section: Tweaks
 Description: SpotClearOnClose clears your spotlight results/search so that when you open it the next time, you don't have to deal with the last search's Text/results!
 Author: Kiran Patil
-Depiction: https://github.com/imkpatil/imkpatil.github.io/tree/master/repo/depiction/SpotClearOnClose/index.html
+Depiction: https://imkpatil.github.io/repo/depiction/SpotClearOnClose/index.html
 Name: SpotClearOnClose
 
